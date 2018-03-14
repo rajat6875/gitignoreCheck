@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/api"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/app"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources-filtered"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry excluding="**/*.java" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="con" path="MULE_RUNTIME"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/com/intellij/annotations/12.0/annotations-12.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/amazonaws/aws-java-sdk-core/1.9.39/aws-java-sdk-core-1.9.39.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/amazonaws/aws-java-sdk-kms/1.9.39/aws-java-sdk-kms-1.9.39.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/amazonaws/aws-java-sdk-s3/1.9.39/aws-java-sdk-s3-1.9.39.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/bouncycastle/bcpg-jdk16/1.46/bcpg-jdk16-1.46.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/bouncycastle/bcprov-jdk16/1.46/bcprov-jdk16-1.46.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/jda/jci/eframework/2018.0.0-SNAPSHOT/eframework-2018.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpclient/4.3.5/httpclient-4.3.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/mule/tools/devkit/mule-devkit-shade/3.9.0/mule-devkit-shade-3.9.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/mule/modules/mule-module-objectstore/2.1.0/mule-module-objectstore-2.1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/mule/modules/mule-module-s3/3.0.0/mule-module-s3-3.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/mulesoft/security/mule-module-security-property-placeholder/1.3.2/mule-module-security-property-placeholder-1.3.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/mulesoft/security/security-api/1.3.2/security-api-1.3.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/jda/jci/timer-interceptor/2018.0.0-SNAPSHOT/timer-interceptor-2018.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="var" path="M2_REPO/xml-security/xmlsec/1.3.0/xmlsec-1.3.0.jar"/>
+	<classpathentry kind="src" path="/jda-cm-shared-domain"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
